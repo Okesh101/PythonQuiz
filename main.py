@@ -66,5 +66,5 @@ def question_5():
         return 0
 
 score = question_1() + question_2() + question_3() + question_4() + question_5()
-print("Your score is: " + str(score) + "/5")
+print("You scored: " + str(score) + "/5")
 print("Thank you for taking the quiz!")
