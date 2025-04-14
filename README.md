@@ -1,7 +1,7 @@
 # PythonQuiz
 
 #Requirements: 
-Python insalled on your PC.
+Python installed on your PC.
 Code editor.
 If using VS Code, install python extensions via the Extensions tab.
 
